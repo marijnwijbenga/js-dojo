@@ -1,0 +1,17 @@
+{
+  "name": "js-dojo",
+  "version": "1.0.0",
+  "description": "honing my js skills in the Dojo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "euler",
+    "leetcode",
+    "practice",
+    "javascript"
+  ],
+  "author": "M. Wijbenga",
+  "license": "ISC"
+}
